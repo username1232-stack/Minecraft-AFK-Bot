@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "CalciumSMP.aternos.me",
+  "serverPort": 50765,
+  "botUsername": "royalbot",
   "botChunk": 1
 }
